@@ -585,6 +585,7 @@
       "silverfish": "2018-06-18 20:22:14 +0800",
       "cave_spider": "2018-08-06 16:08:28 +0800",
       "witch": "2018-05-13 16:43:52 +0800",
+      "guardian": "2018-09-26 18:25:05 +0800",
       "spider": "2018-05-12 17:50:16 +0800",
       "ghast": "2018-07-24 17:40:08 +0800",
       "creeper": "2018-05-13 17:45:41 +0800",
@@ -850,6 +851,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2018-09-26 18:26:11 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_banner": {
     "criteria": {
       "has_black_wool": "2018-06-13 16:39:47 +0800"
@@ -937,6 +944,12 @@
   "minecraft:recipes/building_blocks/yellow_wool": {
     "criteria": {
       "has_white_wool": "2018-05-13 16:45:30 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2018-09-26 18:37:23 +0800"
     },
     "done": true
   },
@@ -1162,6 +1175,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2018-09-26 18:37:23 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/diamond": {
     "criteria": {
       "has_the_recipe": "2018-06-18 19:22:40 +0800"
@@ -1285,6 +1304,12 @@
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2018-05-13 17:52:33 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2018-09-26 18:37:23 +0800"
     },
     "done": true
   },
@@ -1438,6 +1463,12 @@
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2018-05-12 17:10:39 +0800"
+    },
+    "done": true
+  },
+  "minecraft:nether/fast_travel": {
+    "criteria": {
+      "travelled": "2018-09-26 18:12:41 +0800"
     },
     "done": true
   },
