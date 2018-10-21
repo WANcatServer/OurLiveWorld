@@ -59,6 +59,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone": {
+    "criteria": {
+      "has_vine": "2018-10-21 10:44:09 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_the_recipe": "2018-05-20 11:40:37 +0800"
@@ -176,6 +182,12 @@
   "minecraft:recipes/redstone/trapdoor": {
     "criteria": {
       "has_planks": "2018-05-20 12:37:05 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2018-10-21 10:40:53 +0800"
     },
     "done": true
   },
@@ -409,6 +421,12 @@
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2018-05-20 11:42:21 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/speckled_melon": {
+    "criteria": {
+      "has_melon": "2018-10-21 10:40:53 +0800"
     },
     "done": true
   },
@@ -815,6 +833,12 @@
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
       "has_leather": "2018-05-20 13:07:38 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2018-10-21 11:03:45 +0800"
     },
     "done": true
   },
@@ -1314,6 +1338,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_log": "2018-10-21 10:47:16 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_banner": {
     "criteria": {
       "has_black_wool": "2018-05-22 18:26:12 +0800"
@@ -1341,6 +1371,12 @@
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2018-05-20 11:42:21 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_wooden_slab": {
+    "criteria": {
+      "has_planks": "2018-10-21 11:03:45 +0800"
     },
     "done": true
   },
@@ -1533,6 +1569,7 @@
       "forest_hills": "2018-05-20 13:04:24 +0800",
       "plains": "2018-05-20 11:17:52 +0800",
       "savanna": "2018-06-11 19:11:13 +0800",
+      "jungle_hills": "2018-10-21 10:38:07 +0800",
       "savanna_rock": "2018-06-11 19:11:26 +0800",
       "ice_mountains": "2018-05-20 20:51:44 +0800",
       "taiga": "2018-05-20 12:21:33 +0800",
@@ -1546,6 +1583,7 @@
       "roofed_forest": "2018-05-27 21:05:56 +0800",
       "cold_beach": "2018-05-20 20:59:52 +0800",
       "river": "2018-05-20 12:13:01 +0800",
+      "jungle": "2018-10-21 10:38:21 +0800",
       "desert": "2018-05-27 21:45:51 +0800",
       "stone_beach": "2018-05-22 18:24:43 +0800"
     },
@@ -1641,6 +1679,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2018-10-21 11:03:45 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_carpet": {
     "criteria": {
       "has_brown_wool": "2018-05-24 22:51:18 +0800"
@@ -1689,6 +1733,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2018-10-21 11:03:45 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_at_least_9_lapis": "2018-06-11 19:48:07 +0800"
@@ -1725,6 +1775,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2018-10-21 11:03:45 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/tnt_minecart": {
     "criteria": {
       "has_minecart": "2018-08-06 16:47:55 +0800"
@@ -1746,6 +1802,12 @@
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2018-06-17 15:54:38 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon_block": {
+    "criteria": {
+      "has_melon": "2018-10-21 10:40:53 +0800"
     },
     "done": true
   },
